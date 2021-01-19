@@ -2,7 +2,7 @@
 Hello world - PHP codding
 </h1> -->
 
-
+<!-- TEMPLATE COPIADO DO SITE - EXEMPLO BURGUER -->
 
 <!DOCTYPE html>
 <html>
